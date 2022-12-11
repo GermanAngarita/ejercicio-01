@@ -1,0 +1,16 @@
+{
+  "name": "ejercicio-01",
+  "version": "1.0.0",
+  "description": "Ejercicio bootcamp Tecnologías para el desarrollo web",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "@germanangarita",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^6.8.0"
+  }
+}
