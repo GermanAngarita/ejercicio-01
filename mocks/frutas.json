@@ -1,0 +1,49 @@
+[{
+    "id": 1,
+    "nombre": "Manzana",
+    "color": "Rojo",
+    "descripcion": "Fruta dulce, ideal para postres y decoración",
+    "precio": 500,
+    "__v": 0
+},
+{
+    "id": 2,
+    "nombre": "Pera",
+    "color": "Verde",
+    "descripcion": "Fruta muy saludable con textura granulada",
+    "precio": 250,
+    "__v": 0
+},
+{
+    "id": 3,
+    "nombre": "Mango",
+    "color": "Amarillo",
+    "descripcion": "Fruta dulce cuando está maduro",
+    "precio": 700,
+    "__v": 0
+},
+{
+    "id": 4,
+    "nombre": "Uva",
+    "color": "Morada",
+    "descripcion": "Fruta redonda, muy deliciosa, utilidaza para hacer vino",
+    "precio": 1200,
+    "__v": 0
+},
+{
+    "id": 5,
+    "nombre": "Banano",
+    "color": "Amarillo",
+    "descripcion": "Fruta dulce",
+    "precio": 600,
+    "__v": 0
+},
+{
+    "id": 6,
+    "nombre": "Cereza",
+    "color": "Rojo",
+    "descripcion": "Fruta esférica ideal para cocteles",
+    "precio": 600,
+    "__v": 0
+}
+]
